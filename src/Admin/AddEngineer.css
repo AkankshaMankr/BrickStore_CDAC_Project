@@ -1,0 +1,109 @@
+.add-product-container {
+  background-color: #0a192f;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 20px;
+}
+
+.add-product-container h3 {
+  color: #1ec6b6;
+  margin-bottom: 30px;
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.product-form {
+  background-color: #112240;
+  color: white;
+  padding: 50px;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+  width: 100%;
+  max-width: 800px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  position: relative; /* Needed for password eye icon alignment */
+}
+
+.form-group label {
+  margin-bottom: 8px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+.form-group input[type="text"],
+.form-group input[type="email"],
+.form-group input[type="tel"],
+.form-group input[type="password"],
+.form-group input[type="number"],
+.form-group textarea {
+  padding: 10px 12px;
+  font-size: 15px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background-color: #ffffff;
+  color: #000000;
+  resize: none;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.form-group textarea {
+  min-height: 80px;
+}
+
+/* Style for password input when eye icon is shown */
+.form-group input[type="password"],
+.form-group input[type="text"] {
+  padding-right: 40px; /* Space for eye icon */
+}
+
+/* Eye icon styling */
+.form-group span {
+  position: absolute;
+  top: 66%;
+  right: 12px;
+  transform: translateY(-50%);
+  cursor: pointer;
+  color: #555;
+  z-index: 1;
+}
+
+.error-message {
+  color: #ff4d4d;
+  font-size: 14px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.submit-btn {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #1ec6b6;
+  color: #0a192f;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.submit-btn:hover {
+  background-color: #18b0a2;
+}
+
+input:focus,
+textarea:focus {
+  outline: none;
+  border-color: #1ec6b6;
+  box-shadow: 0 0 0 2px rgba(30, 198, 182, 0.2);
+}
