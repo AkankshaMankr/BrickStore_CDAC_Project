@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #121212; /* Full screen dark background */
+  color: #ffffff;
+}
+
+.orders-container {
+  padding: 40px 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.orders-heading {
+  text-align: center;
+  font-size: 28px;
+  margin-bottom: 30px;
+  color: #ffffff;
+}
+
+.order-item {
+  background-color: #ffffff; /* Order card white */
+  color: #000000;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(255, 255, 255, 0.1);
+  margin-bottom: 30px;
+  padding: 20px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.order-item:hover {
+  transform: translateY(-4px);
+}
+
+.order-info h4 {
+  font-size: 20px;
+  margin-bottom: 6px;
+}
+
+.order-info p {
+  margin-bottom: 10px;
+  font-size: 14px;
+  color: #555555;
+}
+
+.order-products {
+  margin-top: 15px;
+}
+
+.order-product {
+  display: flex;
+  gap: 15px;
+  padding: 12px;
+  border-top: 1px solid #ddd;
+}
+
+.order-product-image {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 8px;
+  background-color: #f0f0f0;
+}
+
+.order-product-details h5 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.order-product-details p {
+  margin: 4px 0;
+  font-size: 14px;
+}
+
+.empty-orders-message,
+.empty-order-products-message {
+  text-align: center;
+  font-size: 18px;
+  color: #dddddd;
+}
