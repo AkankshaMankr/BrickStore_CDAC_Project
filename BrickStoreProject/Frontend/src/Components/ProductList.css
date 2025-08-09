@@ -1,0 +1,117 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff; /* Entire page background white */
+  font-family: Arial, sans-serif;
+}
+
+.product-theme {
+  background-color: #ffffff; /* Page wrapper white */
+  min-height: 100vh;
+  padding: 40px 20px;
+  color: black;
+}
+
+.product-list-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  justify-content: center;
+}
+
+.product-card {
+  width: 250px;
+  background-color: #242b31; /* light gray card background */
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: transform 0.2s ease;
+}
+
+.product-card:hover {
+  transform: translateY(-5px);
+}
+
+.product-image-wrapper {
+  width: 100%;
+  height: 180px;
+  background-color: #ffffff; /* Dark background for image */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.product-image {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.product-name {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 8px;
+  text-align: center;
+  color: #212529;
+}
+
+.product-price {
+  color: #28a745;
+  font-size: 16px;
+  margin-bottom: 12px;
+}
+
+.quantity-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.quantity-button {
+  padding: 4px 12px;
+  font-size: 18px;
+  background-color: #dee2e6;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  color: black;
+}
+
+.quantity-display {
+  font-size: 16px;
+  color: black;
+  background-color: #e2e6ea;
+  padding: 4px 12px;
+  border-radius: 5px;
+}
+
+.add-to-cart-button {
+  padding: 8px 16px;
+  background-color: #007bff;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  cursor: pointer;
+  font-weight: 500;
+  margin-top: auto;
+}
+
+.add-to-cart-button:disabled {
+  background-color: #dc3545;
+  cursor: not-allowed;
+}
+
+.loading,
+.error,
+.empty-product-message {
+  text-align: center;
+  color: black;
+  font-size: 18px;
+}
