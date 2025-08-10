@@ -1,0 +1,1312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\datainitializer\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:datainitializer\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\dto\\appointmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:dto\\appointmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\dto\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:dto\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\configuration\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:configuration\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\services\\questionanswerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:services\\questionanswerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\dto\\questionanswerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:dto\\questionanswerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\controllers\\questionanswercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:controllers\\questionanswercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\dto\\paymentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:dto\\paymentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\dto\\adminpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:dto\\adminpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\repositories\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:repositories\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\controllers\\areadocumentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:controllers\\areadocumentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\models\\questionanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:models\\questionanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\services\\iquestionanswerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:services\\iquestionanswerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\repositories\\questionanswerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:repositories\\questionanswerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\repositories\\iquestionanswerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:repositories\\iquestionanswerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\services\\areadocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:services\\areadocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\services\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:services\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\services\\iareadocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:services\\iareadocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\repositories\\areadocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:repositories\\areadocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\repositories\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:repositories\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\repositories\\iareadocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:repositories\\iareadocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\dto\\documentdownloadresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:dto\\documentdownloadresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\models\\areadocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:models\\areadocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\services\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:services\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\dto\\cartrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:dto\\cartrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\dto\\cartresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:dto\\cartresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\dto\\orderitemresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:dto\\orderitemresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\dto\\paymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:dto\\paymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\dto\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:dto\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\dto\\orderdtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:dto\\orderdtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\dto\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:dto\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\dto\\productuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:dto\\productuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\dto\\adminorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:dto\\adminorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\models\\brickstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:models\\brickstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|c:\\users\\dell\\desktop\\dotnetbrickstore\\brickstorenetproject\\brickstorebackend\\migrations\\20250808083814_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C6C0ED-323C-4FC8-B43D-E5A0A8FC924A}|BrickStoreBackend.csproj|solutionrelative:migrations\\20250808083814_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:45:51.51Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-07T13:36:29.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20250808083814_initialmigration.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Migrations\\20250808083814_initialmigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250808083814_initialmigration.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Migrations\\20250808083814_initialmigration.cs",
+              "RelativeToolTip": "Migrations\\20250808083814_initialmigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T08:38:14.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA2wBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:05:01.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAIUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T12:33:48.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswEIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:58:49.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:02:44.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DataInitializer\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "DataInitializer\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DataInitializer\\DataSeeder.cs",
+              "RelativeToolTip": "DataInitializer\\DataSeeder.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T09:34:15.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Models\\Appointment.cs",
+              "RelativeToolTip": "Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:55:47.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppointmentResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\AppointmentResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\AppointmentResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\AppointmentResponseDTO.cs",
+              "RelativeToolTip": "DTO\\AppointmentResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T09:18:03.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:02:47.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwGQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:56:57.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppointmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\AppointmentDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\AppointmentDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\AppointmentDTO.cs",
+              "RelativeToolTip": "DTO\\AppointmentDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T20:15:04.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuestionAnswerController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Controllers\\QuestionAnswerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuestionAnswerController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Controllers\\QuestionAnswerController.cs",
+              "RelativeToolTip": "Controllers\\QuestionAnswerController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T20:15:48.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JWTSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Configuration\\JWTSettings.cs",
+              "RelativeDocumentMoniker": "Configuration\\JWTSettings.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Configuration\\JWTSettings.cs",
+              "RelativeToolTip": "Configuration\\JWTSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T21:35:30.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuestionAnswerService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\QuestionAnswerService.cs",
+              "RelativeDocumentMoniker": "Services\\QuestionAnswerService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\QuestionAnswerService.cs",
+              "RelativeToolTip": "Services\\QuestionAnswerService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T19:59:02.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\OrderDTO.cs",
+              "RelativeToolTip": "DTO\\OrderDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:18:06.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PaymentResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\PaymentResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\PaymentResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\PaymentResponseDTO.cs",
+              "RelativeToolTip": "DTO\\PaymentResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T15:25:25.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QuestionAnswerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\QuestionAnswerDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\QuestionAnswerDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\QuestionAnswerDTO.cs",
+              "RelativeToolTip": "DTO\\QuestionAnswerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T19:07:15.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:13:22.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IPaymentRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\IPaymentRepository.cs",
+              "RelativeToolTip": "Repositories\\IPaymentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:03:39.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\PaymentRepository.cs",
+              "RelativeToolTip": "Repositories\\PaymentRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:03:55.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminPaymentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\AdminPaymentDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\AdminPaymentDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\AdminPaymentDTO.cs",
+              "RelativeToolTip": "DTO\\AdminPaymentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T19:36:47.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:03:29.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwB4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:53:43.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:58:36.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwBsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:09:23.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "DTO\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:29:25.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:59:41.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "DTO\\ProductDTO.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:47:03.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:12:52.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:03:07.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwDQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:58:00.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:55:41.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:02:14.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:09:54.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T15:08:10.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAgwDQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T11:53:55.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AreaDocumentController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Controllers\\AreaDocumentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AreaDocumentController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Controllers\\AreaDocumentController.cs",
+              "RelativeToolTip": "Controllers\\AreaDocumentController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAYwDIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T09:35:09.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:07:28.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IQuestionAnswerService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\IQuestionAnswerService.cs",
+              "RelativeDocumentMoniker": "Services\\IQuestionAnswerService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\IQuestionAnswerService.cs",
+              "RelativeToolTip": "Services\\IQuestionAnswerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T19:58:22.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "QuestionAnswer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Models\\QuestionAnswer.cs",
+              "RelativeDocumentMoniker": "Models\\QuestionAnswer.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Models\\QuestionAnswer.cs",
+              "RelativeToolTip": "Models\\QuestionAnswer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:09:10.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "QuestionAnswerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\QuestionAnswerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\QuestionAnswerRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\QuestionAnswerRepository.cs",
+              "RelativeToolTip": "Repositories\\QuestionAnswerRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T19:08:42.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IQuestionAnswerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\IQuestionAnswerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IQuestionAnswerRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\IQuestionAnswerRepository.cs",
+              "RelativeToolTip": "Repositories\\IQuestionAnswerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T19:08:03.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IAreaDocumentService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\IAreaDocumentService.cs",
+              "RelativeDocumentMoniker": "Services\\IAreaDocumentService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\IAreaDocumentService.cs",
+              "RelativeToolTip": "Services\\IAreaDocumentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T10:00:14.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AreaDocumentService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\AreaDocumentService.cs",
+              "RelativeDocumentMoniker": "Services\\AreaDocumentService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\AreaDocumentService.cs",
+              "RelativeToolTip": "Services\\AreaDocumentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T10:02:57.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AreaDocumentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\AreaDocumentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AreaDocumentRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\AreaDocumentRepository.cs",
+              "RelativeToolTip": "Repositories\\AreaDocumentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T09:57:28.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\IAppointmentRepository.cs",
+              "RelativeToolTip": "Repositories\\IAppointmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T20:15:53.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IAreaDocumentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\IAreaDocumentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAreaDocumentRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\IAreaDocumentRepository.cs",
+              "RelativeToolTip": "Repositories\\IAreaDocumentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T09:56:02.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DocumentDownloadResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\DocumentDownloadResponse.cs",
+              "RelativeDocumentMoniker": "DTO\\DocumentDownloadResponse.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\DocumentDownloadResponse.cs",
+              "RelativeToolTip": "DTO\\DocumentDownloadResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T09:54:54.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "Services\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\IAppointmentService.cs",
+              "RelativeToolTip": "Services\\IAppointmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T20:18:21.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "Repositories\\AppointmentRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T20:16:22.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AreaDocument.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Models\\AreaDocument.cs",
+              "RelativeDocumentMoniker": "Models\\AreaDocument.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Models\\AreaDocument.cs",
+              "RelativeToolTip": "Models\\AreaDocument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:55:42.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T20:25:07.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\CartService.cs",
+              "RelativeToolTip": "Services\\CartService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvxYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:57:15.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CartDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\CartDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CartDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\CartDTO.cs",
+              "RelativeToolTip": "DTO\\CartDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T12:07:23.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\ICartRepository.cs",
+              "RelativeToolTip": "Repositories\\ICartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:04:08.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\ICartService.cs",
+              "RelativeDocumentMoniker": "Services\\ICartService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\ICartService.cs",
+              "RelativeToolTip": "Services\\ICartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:57:03.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:12:25.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CartRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\CartRequestDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CartRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\CartRequestDTO.cs",
+              "RelativeToolTip": "DTO\\CartRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T19:08:43.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CartResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\CartResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CartResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\CartResponseDTO.cs",
+              "RelativeToolTip": "DTO\\CartResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T19:03:47.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "OrderItemResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\OrderItemResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\OrderItemResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\OrderItemResponseDTO.cs",
+              "RelativeToolTip": "DTO\\OrderItemResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T16:07:07.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "PaymentRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\PaymentRequestDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\PaymentRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\PaymentRequestDTO.cs",
+              "RelativeToolTip": "DTO\\PaymentRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T06:44:17.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "OrderItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\OrderItemDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\OrderItemDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\OrderItemDTO.cs",
+              "RelativeToolTip": "DTO\\OrderItemDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:17:11.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CreateOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\CreateOrderRequest.cs",
+              "RelativeDocumentMoniker": "DTO\\CreateOrderRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\CreateOrderRequest.cs",
+              "RelativeToolTip": "DTO\\CreateOrderRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:16:33.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "Repositories\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:04:28.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:57:30.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\IOrderService.cs",
+              "RelativeToolTip": "Services\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:55:57.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:09:58.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:36:13.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:20:16.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "OrderDtoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\OrderDtoResponse.cs",
+              "RelativeDocumentMoniker": "DTO\\OrderDtoResponse.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\OrderDtoResponse.cs",
+              "RelativeToolTip": "DTO\\OrderDtoResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:19:41.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "Services\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\IPaymentService.cs",
+              "RelativeToolTip": "Services\\IPaymentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:56:17.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T17:34:34.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ProductUploadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\ProductUploadDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ProductUploadDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\ProductUploadDTO.cs",
+              "RelativeToolTip": "DTO\\ProductUploadDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:34:18.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ProductUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\ProductUpdateDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ProductUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\ProductUpdateDTO.cs",
+              "RelativeToolTip": "DTO\\ProductUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T19:48:50.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\ICategoryService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:55:20.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "AdminOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\AdminOrderDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\AdminOrderDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\DTO\\AdminOrderDTO.cs",
+              "RelativeToolTip": "DTO\\AdminOrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:55:23.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Models\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "Models\\OrderProduct.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Models\\OrderProduct.cs",
+              "RelativeToolTip": "Models\\OrderProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T19:00:56.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "BrickstoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Models\\BrickstoreContext.cs",
+              "RelativeDocumentMoniker": "Models\\BrickstoreContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DotNetBrickStore\\BrickStoreNETProject\\BrickStoreBackend\\Models\\BrickstoreContext.cs",
+              "RelativeToolTip": "Models\\BrickstoreContext.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAqwCoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:51:04.738Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
